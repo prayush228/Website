@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>Course Structure </title>
+	</head>
+	<body>
+		<ol type = "A">
+			<li> First Semester 
+				<ol type = "1" >
+					<li> Structured Programming in C </li>
+					<li> Basic Mathematics </li>
+					<li> English </li>
+					<li> Foundation of Business Management </li>
+					<li> Foundation of Information technology </li>
+				</ol>
+			</li>
+			<li> Second Semester 
+				<ol type = "I">
+					<li> Digital Logic </li>
+					<li> Discrete Structure </li>
+					<li> Business Communication</li> 
+					<li> OOP in java</li>
+					<li> OBHRM</li>
+				</ol>
+			</li>
+			<li> Third Semester </li>
+				<ol type = "a">
+					<li> WEB-I</li>
+					<li> Business statistics </li>
+					<li> Microprocessor </li>
+					<li> Fin. Accounting </li>
+					<li> DBMS </li>
+				</ol>
+			</li>
+			
+		</ol>
+	</body>
+</html>
