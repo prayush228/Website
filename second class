@@ -1,0 +1,119 @@
+<!DOCTYPE html>
+<html> 
+	<head>
+		<title> Class 2 </title>
+	</head> 
+		<body>
+			<div id="start"></div>
+			<a href = "class1.html">click here</a>
+			<ol>
+				<li><a href="#comp">What is computer?</a></li>
+				<li><a href="#veg">What is vegetable?</a></li>
+			</ol>
+			<h2 id="veg">Vegetable</h2>
+			<p>
+			Vegetable is good for health.
+			Vegetable is good for health.
+			Vegetable is good for health.
+			Vegetable is good for health.
+			Vegetable is good for health.
+			Vegetable is good for health.
+			Vegetable is good for health.
+			Vegetable is good for health.
+			Vegetable is good for health.
+			Vegetable is good for health.
+			Vegetable is good for health.
+			Vegetable is good for health.
+			Vegetable is good for health.
+			Vegetable is good for health.
+			Vegetable is good for health.
+			Vegetable is good for health.
+			Vegetable is good for health.
+			Vegetable is good for health.
+			Vegetable is good for health.
+			Vegetable is good for health.
+			Vegetable is good for health.
+			Vegetable is good for health.
+			Vegetable is good for health.
+			Vegetable is good for health.
+			Vegetable is good for health.
+			Vegetable is good for health.
+			Vegetable is good for health.
+			Vegetable is good for health.
+			Vegetable is good for health.
+			Vegetable is good for health.
+			Vegetable is good for health.
+			Vegetable is good for health.
+			Vegetable is good for health.
+			Vegetable is good for health.
+			Vegetable is good for health.
+			Vegetable is good for health.
+			Vegetable is good for health.
+			Vegetable is good for health.
+			Vegetable is good for health.
+			Vegetable is good for health.
+			Vegetable is good for health.
+			Vegetable is good for health.
+			Vegetable is good for health.
+			Vegetable is good for health.
+			Vegetable is good for health.
+			Vegetable is good for health.
+			Vegetable is good for health.
+			Vegetable is good for health.
+			Vegetable is good for health.
+			Vegetable is good for health.
+			Vegetable is good for health.
+			Vegetable is good for health.
+			Vegetable is good for health.
+			Vegetable is good for health.
+			Vegetable is good for health.
+			Vegetable is good for health.
+			Vegetable is good for health.
+			Vegetable is good for health.
+			Vegetable is good for health.
+			Vegetable is good for health.
+			Vegetable is good for health.
+			Vegetable is good for health.
+			Vegetable is good for health.
+			Vegetable is good for health.
+			Vegetable is good for health.
+			Vegetable is good for health.
+			Vegetable is good for health.
+			Vegetable is good for health.
+			Vegetable is good for health.
+			Vegetable is good for health.
+			Vegetable is good for health.
+			Vegetable is good for health.
+			Vegetable is good for health.
+			Vegetable is good for health.
+			Vegetable is good for health.
+			Vegetable is good for health.
+			Vegetable is good for health.
+			Vegetable is good for health.
+			Vegetable is good for health.
+			</p>
+			<h2 id="comp">computer</h2>
+			<a href="#start">Back to Top</a>
+			<p>
+				Computer is an electronic device that takes input then process and produce output.
+				Computer is an electronic device that takes input then process and produce output.
+				Computer is an electronic device that takes input then process and produce output.
+				Computer is an electronic device that takes input then process and produce output.
+				Computer is an electronic device that takes input then process and produce output.
+				Computer is an electronic device that takes input then process and produce output.
+				Computer is an electronic device that takes input then process and produce output.
+				Computer is an electronic device that takes input then process and produce output.
+				Computer is an electronic device that takes input then process and produce output.
+				Computer is an electronic device that takes input then process and produce output.
+				Computer is an electronic device that takes input then process and produce output.
+				Computer is an electronic device that takes input then process and produce output.
+				Computer is an electronic device that takes input then process and produce output.
+				Computer is an electronic device that takes input then process and produce output.
+				Computer is an electronic device that takes input then process and produce output.
+				Computer is an electronic device that takes input then process and produce output.
+				Computer is an electronic device that takes input then process and produce output.
+				Computer is an electronic device that takes input then process and produce output.
+				Computer is an electronic device that takes input then process and produce output.
+			</p>
+		</body>
+</html>
